@@ -12,7 +12,7 @@
   "devDependencies": {
     "axe-core": "^4.4.0",
     "@testcafe-community/axe": "^3.5.0",
-    "testcafe": "^1.18.0",
+    "testcafe": "^15.1.317922",
     "@ffmpeg-installer/ffmpeg": "^1.1.0"
   },
   "repository": "https://git.magenta.dk/bevillingsplatform/bevillingsplatform.git"

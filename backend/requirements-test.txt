@@ -19,6 +19,6 @@ uritemplate==4.1.1
 # pyyaml==5.3 use fork waiting for https://github.com/yaml/pyyaml/pull/372
 git+https://github.com/syre/pyyaml@yaml-add-decimal-representer#egg=pyyaml
 sphinxcontrib-openapi==0.7.0
-mistune==0.8.4 # sphinxcontrib-openapi==0.7.0 cannot work with the latest mistune version (2.0.0)
+mistune==2.0.3 # sphinxcontrib-openapi==0.7.0 cannot work with the latest mistune version (2.0.0)
 # ^ These are requirements for openapi
 # |

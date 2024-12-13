@@ -26,5 +26,5 @@ prometheus-client==0.10.1
 git+https://github.com/magenta-aps/virk.dk@1.2.1#egg=virk_dk
 graphene-django==2.15.0
 graphene-django-optimizer==0.8.0
-lxml==4.6.3
+lxml==4.9.1
 Markdown==3.3.6

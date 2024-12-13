@@ -1,4 +1,4 @@
-Django==3.2.12
+Django==3.2.18
 portion==2.1.5
 psycopg2-binary==2.8.6
 gunicorn==20.1.0
